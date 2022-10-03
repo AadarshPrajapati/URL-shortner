@@ -1,0 +1,5 @@
+https://manpages.ubuntu.com/manpages/xenial/man5/urls_txt.5.html
+https://stackoverflow.com/questions/15221473/how-do-i-update-upgrade-pip-itself-from-inside-my-virtual-environment
+https://realpython.com/run-python-scripts/#:~:text=To%20run%20Python%20scripts%20with,see%20the%20phrase%20Hello%20World!
+https://thecleverprogrammer.com/2021/01/15/url-shortener-with-python/
+https://www.youtube.com/
